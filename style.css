@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #066acd;
+}
+.calender,
+.main {
+  background-color: transparent;
+  display: flex;
+  padding-left: 40px;
+  margin: auto auto;
+  width: 35%;
+  background-color: white;
+}
+.calender h1 {
+  margin-bottom: -10px;
+  text-align: center;
+}
+table {
+  margin: auto auto;
+  padding: 30px;
+}
+th {
+  padding: 10px;
+}
+td {
+  text-align: center;
+  padding-bottom: 15px;
+}
+a {
+  text-decoration: none;
+}
